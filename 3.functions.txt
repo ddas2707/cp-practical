@@ -1,0 +1,35 @@
+
+#include <stdio.h>
+
+int main()
+{
+
+int a=5;
+int b=4;
+int c=a+b;
+printf("the value of a+b is %d",c);
+
+return 0;
+}
+
+output:
+the value of a+b is 9
+
+Assignment:
+
+#include <stdio.h>
+
+int main()
+{
+int a=8;
+int b=6;
+int c=(a*a)+(b*b);
+printf("the value of a squared + b squared is %d",c);
+return 0;
+}
+
+output:
+the value of a squared + b squared is 100
+
+
+
